@@ -24,8 +24,8 @@
 To get a local copy up and run using VSCODE.
 
 ### Prerequisites
--Vscode
--Git
+- Vscode
+- Git
 
 
 
