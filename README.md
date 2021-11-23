@@ -4,7 +4,7 @@
 
 > A basic Hello Microverse Project with HTML and CSS. It has Linters Implemented and ignored redundant files using .gitignore
 
-![screenshot](./app_screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/90556221/143087900-cf0608db-242a-4060-8307-f4743e7da7bf.png)
 
 
 ## Built With
